@@ -3,6 +3,7 @@ Distributed Deep Learning on FogBus - A tutorial. Implement, deploy and test a d
 <div align="center">
 <img src="https://github.com/Cloudslab/FogBus-DDL/blob/master/Tutorial/End-user%20manual/images/Screenshot_20190524-210953.jpg" width="400" align="middle">
 </div>
+
 ## Developer
 
 [Shreshth Tuli](https://www.github.com/shreshthtuli)
