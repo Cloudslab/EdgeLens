@@ -7,3 +7,6 @@ Distributed Deep Learning on FogBus - A tutorial. Implement, deploy and test a d
 ## Developer
 
 [Shreshth Tuli](https://www.github.com/shreshthtuli)
+
+## References
+Tuli, Shreshth, Redowan Mahmud, Shikhar Tuli, and Rajkumar Buyya. "FogBus: A Blockchain-based Lightweight Framework for Edge and Fog Computing." Journal of Systems and Software (2019).
